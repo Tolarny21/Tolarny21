@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on becoming a Data Scientist.
-- 🌱 I’m currently learning Data Science and Machine Learning With Microsoft
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 🤔 I’m looking for help with a  Mentor
 - 💬 Ask me about how my learning process is going.
